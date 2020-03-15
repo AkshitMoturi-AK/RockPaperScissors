@@ -1,0 +1,152 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .gitignore
+* .idea\
+* .idea\workspace.xml
+* Documentation
+* README.md
+* app\
+* app\build.gradle
+* app\src\
+* app\src\main\
+* app\src\main\AndroidManifest.xml
+* app\src\main\java\
+* app\src\main\java\com\
+* app\src\main\java\com\example\
+* app\src\main\java\com\example\rockpaperscissors\
+* app\src\main\java\com\example\rockpaperscissors\AdvancedGameActivity.java
+* app\src\main\java\com\example\rockpaperscissors\ClassicGameActivity.java
+* app\src\main\java\com\example\rockpaperscissors\DbHelper.java
+* app\src\main\java\com\example\rockpaperscissors\HomePageActivity.java
+* app\src\main\java\com\example\rockpaperscissors\ModesActivity.java
+* app\src\main\java\com\example\rockpaperscissors\RulesActivity.java
+* app\src\main\java\com\example\rockpaperscissors\ScoresActivity.java
+* app\src\main\java\com\example\rockpaperscissors\SettingsActivity.java
+* app\src\main\java\com\example\rockpaperscissors\SignUpActivity.java
+* app\src\main\java\com\example\rockpaperscissors\SigninActivity.java
+* app\src\main\java\com\example\rockpaperscissors\SplashActivity.java
+* app\src\main\res\
+* app\src\main\res\drawable-hdpi\
+* app\src\main\res\drawable-hdpi\lizard.png
+* app\src\main\res\drawable-hdpi\paper.png
+* app\src\main\res\drawable-hdpi\rock.jpg
+* app\src\main\res\drawable-hdpi\rps.png
+* app\src\main\res\drawable-hdpi\rps_adv.png
+* app\src\main\res\drawable-hdpi\rps_classic.png
+* app\src\main\res\drawable-hdpi\rpsls.png
+* app\src\main\res\drawable-hdpi\scissors.jpg
+* app\src\main\res\drawable-hdpi\settings.png
+* app\src\main\res\drawable-hdpi\spock.jpg
+* app\src\main\res\drawable-ldpi\
+* app\src\main\res\drawable-ldpi\ic_launcher.png
+* app\src\main\res\drawable-ldpi\rps_adv.png
+* app\src\main\res\drawable-ldpi\rps_classic.png
+* app\src\main\res\drawable-mdpi\
+* app\src\main\res\drawable-mdpi\ic_launcher.png
+* app\src\main\res\drawable-mdpi\rps_adv.png
+* app\src\main\res\drawable-mdpi\rps_classic.png
+* app\src\main\res\drawable-mdpi\settings.png
+* app\src\main\res\drawable-xhdpi\
+* app\src\main\res\drawable-xhdpi\home.jpg
+* app\src\main\res\drawable-xhdpi\ic_launcher.png
+* app\src\main\res\drawable-xhdpi\images.jpg
+* app\src\main\res\drawable-xhdpi\rps.png
+* app\src\main\res\drawable-xhdpi\rps_adv.png
+* app\src\main\res\drawable-xhdpi\rps_classic.png
+* app\src\main\res\drawable-xhdpi\rpsls.png
+* app\src\main\res\drawable-xhdpi\settings.png
+* app\src\main\res\drawable-xxhdpi\
+* app\src\main\res\drawable-xxhdpi\settings.png
+* app\src\main\res\layout\
+* app\src\main\res\layout\activity_advanced_game.xml
+* app\src\main\res\layout\activity_classic_game.xml
+* app\src\main\res\layout\activity_home_page.xml
+* app\src\main\res\layout\activity_modes.xml
+* app\src\main\res\layout\activity_rules.xml
+* app\src\main\res\layout\activity_scores.xml
+* app\src\main\res\layout\activity_settings.xml
+* app\src\main\res\layout\activity_signin.xml
+* app\src\main\res\layout\activity_signup.xml
+* app\src\main\res\layout\activity_splash.xml
+* app\src\main\res\menu\
+* app\src\main\res\menu\activity_advanced_game.xml
+* app\src\main\res\menu\activity_classic_game.xml
+* app\src\main\res\menu\activity_login.xml
+* app\src\main\res\menu\activity_main.xml
+* app\src\main\res\menu\activity_modes.xml
+* app\src\main\res\menu\activity_rules.xml
+* app\src\main\res\menu\activity_scores.xml
+* app\src\main\res\menu\activity_settings.xml
+* app\src\main\res\menu\activity_signin.xml
+* app\src\main\res\menu\activity_signup.xml
+* app\src\main\res\menu\activity_splash.xml
+* app\src\main\res\raw\
+* app\src\main\res\raw\arcadefantasy.mp3
+* app\src\main\res\raw\buttontrack.mp3
+* app\src\main\res\values-large\
+* app\src\main\res\values-large\styles.xml
+* app\src\main\res\values-v11\
+* app\src\main\res\values-v11\styles.xml
+* app\src\main\res\values-v14\
+* app\src\main\res\values-v14\styles.xml
+* app\src\main\res\values\
+* app\src\main\res\values\strings.xml
+* app\src\main\res\values\strings_activity_login.xml
+* app\src\main\res\values\styles.xml
+* build.gradle
+* gradle\
+* gradle\wrapper\
+* gradle\wrapper\gradle-wrapper.jar
+* gradle\wrapper\gradle-wrapper.properties
+* gradlew
+* gradlew.bat
+* ic_launcher-web.png
+* proguard-project.txt
+* rps_adv-web.png
+* rps_bg-web.png
+* rps_classic-web.png
+* settings-web.png
+* settings.gradle
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:23.+
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

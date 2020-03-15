@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_signin.xml.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\src\\main\\res\\layout\\activity_signin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_settings.png.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\src\\main\\res\\drawable-hdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_settings.png.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\src\\main\\res\\drawable-xhdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_rps_classic.png.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\src\\main\\res\\drawable-hdpi\\rps_classic.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_rps_classic.png.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\src\\main\\res\\drawable-ldpi\\rps_classic.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_home.jpg.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\src\\main\\res\\drawable-xhdpi\\home.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_rpsls.png.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\src\\main\\res\\drawable-hdpi\\rpsls.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_rps_adv.png.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\src\\main\\res\\drawable-xhdpi\\rps_adv.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_rock.jpg.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\src\\main\\res\\drawable-hdpi\\rock.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\raw_arcadefantasy.mp3.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\src\\main\\res\\raw\\arcadefantasy.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_splash.xml.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\src\\main\\res\\menu\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\raw_buttontrack.mp3.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\src\\main\\res\\raw\\buttontrack.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_rules.xml.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\src\\main\\res\\menu\\activity_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\src\\main\\res\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_rps.png.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\src\\main\\res\\drawable-hdpi\\rps.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_modes.xml.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\src\\main\\res\\layout\\activity_modes.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_login.xml.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\src\\main\\res\\menu\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_rps_classic.png.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\src\\main\\res\\drawable-mdpi\\rps_classic.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_rules.xml.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\src\\main\\res\\layout\\activity_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_scores.xml.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\src\\main\\res\\menu\\activity_scores.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_modes.xml.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\src\\main\\res\\menu\\activity_modes.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_rps.png.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\src\\main\\res\\drawable-xhdpi\\rps.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_classic_game.xml.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\src\\main\\res\\layout\\activity_classic_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_scores.xml.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\src\\main\\res\\layout\\activity_scores.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_rps_adv.png.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\src\\main\\res\\drawable-mdpi\\rps_adv.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_paper.png.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\src\\main\\res\\drawable-hdpi\\paper.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main.xml.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\src\\main\\res\\menu\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_settings.xml.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\src\\main\\res\\menu\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_rps_classic.png.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\src\\main\\res\\drawable-xhdpi\\rps_classic.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home_page.xml.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\src\\main\\res\\layout\\activity_home_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_rps_adv.png.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\src\\main\\res\\drawable-hdpi\\rps_adv.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_rpsls.png.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\src\\main\\res\\drawable-xhdpi\\rpsls.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_settings.png.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\src\\main\\res\\drawable-xxhdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_advanced_game.xml.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\src\\main\\res\\layout\\activity_advanced_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_advanced_game.xml.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\src\\main\\res\\menu\\activity_advanced_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_classic_game.xml.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\src\\main\\res\\menu\\activity_classic_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_rps_adv.png.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\src\\main\\res\\drawable-ldpi\\rps_adv.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_signin.xml.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\src\\main\\res\\menu\\activity_signin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_settings.png.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\src\\main\\res\\drawable-mdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_spock.jpg.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\src\\main\\res\\drawable-hdpi\\spock.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_scissors.jpg.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\src\\main\\res\\drawable-hdpi\\scissors.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_images.jpg.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\src\\main\\res\\drawable-xhdpi\\images.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_lizard.png.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\src\\main\\res\\drawable-hdpi\\lizard.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_signup.xml.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\src\\main\\res\\menu\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    }
+]

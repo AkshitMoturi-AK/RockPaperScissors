@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\src\\main\\res\\values\\strings_activity_login.xml",
+                    "from": {
+                        "startLines": "7,8,14,13,11,12,10,9,5,6,2",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "213,292,728,648,492,570,420,349,113,160,17",
+                        "endColumns": "78,56,71,79,77,77,71,70,46,52,56",
+                        "endOffsets": "287,344,795,723,565,643,487,415,155,208,69"
+                    },
+                    "to": {
+                        "startLines": "3,4,6,7,8,9,11,12,14,15,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "113,192,304,376,456,534,665,731,853,900,1107",
+                        "endColumns": "78,56,71,79,77,77,65,70,46,52,56",
+                        "endOffsets": "187,244,371,451,529,607,726,797,895,948,1159"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "8,18,22",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "232,566,731",
+                        "endLines": "15,20,26",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "525,723,955"
+                    },
+                    "to": {
+                        "startLines": "26,34,37",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "1615,1907,2067",
+                        "endLines": "33,36,41",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "1902,2062,2287"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RockPaperScissors\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "6,3,4,5,15,14,12,9,13,11,10,8,7",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "215,56,111,164,800,724,600,403,661,535,466,338,273",
+                        "endColumns": "57,54,52,50,77,75,60,62,62,64,68,64,64",
+                        "endOffsets": "268,106,159,210,873,795,656,461,719,595,530,398,333"
+                    },
+                    "to": {
+                        "startLines": "2,5,10,13,16,17,19,20,21,22,23,24,25",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,249,612,802,953,1031,1164,1225,1288,1351,1416,1485,1550",
+                        "endColumns": "57,54,52,50,77,75,60,62,62,64,68,64,64",
+                        "endOffsets": "108,299,660,848,1026,1102,1220,1283,1346,1411,1480,1545,1610"
+                    }
+                }
+            ]
+        }
+    ]
+}
